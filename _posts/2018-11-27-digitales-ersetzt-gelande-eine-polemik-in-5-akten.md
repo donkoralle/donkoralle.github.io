@@ -13,6 +13,10 @@ _Ein Kurzvortrag gehalten am [Tag der Lehre 2018](https://www.uibk.ac.at/rektore
 
 ![](/assets/img/000002.png)
 
+![](assets/img/000002.png)
+
+![](../assets/img/000002.png)
+
 Vor einigen Tagen hat mich Ernst Steinicke gefragt, ob ich nicht fünf Minuten irgendetwas zum Thema "Digitales ersetzt Gelände" - Untertitel: "Warum man nicht vor Ort arbeiten muss" - erzählen kann.
 
 [![](images/000003a.png)](https://kamihoeferl.at/wp-content/uploads/2018/11/000003a.png)
