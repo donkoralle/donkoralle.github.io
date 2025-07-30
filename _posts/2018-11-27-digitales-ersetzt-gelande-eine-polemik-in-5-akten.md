@@ -7,6 +7,8 @@ tags: [teaching, digitalisierung, exkursion]
 image: polemik.jpg
 ---
 
+---
+
 _Ein Kurzvortrag gehalten am [Tag der Lehre 2018](https://www.uibk.ac.at/rektorenteam/lehre/tag-der-lehre/index.html.de)_ _der [Fakultät für Geo- und Atmosphärenwissenschaften](https://www.uibk.ac.at/rektorenteam/lehre/tag-der-lehre/fakultaetsprogramme.html)_ _der Universität Innsbruck._
 
 <!--more-->
