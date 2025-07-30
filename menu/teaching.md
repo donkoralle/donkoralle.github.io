@@ -6,7 +6,7 @@ permalink: /teaching
 
 Here you can find materials from my classes.
 
-# Stuff with Numbers
+## Stuff with Numbers
 
 Here are some WorkBooks from previous classes:
 
@@ -15,7 +15,6 @@ Here are some WorkBooks from previous classes:
 📖 **[Online WorkBook VU "How 2 do Things with Numbers"](https://donkoralle.github.io/dtwn_1/)** held in SS 22
 
 
-# As for the Rest
+## As for the Rest
 
 ![Still waiting](assets/img/waiting.gif)
-
