@@ -19,6 +19,7 @@ _Ein Kurzvortrag gehalten am [Tag der Lehre 2018](https://www.uibk.ac.at/rektore
 
 Vor einigen Tagen hat mich Ernst Steinicke gefragt, ob ich nicht fünf Minuten irgendetwas zum Thema "Digitales ersetzt Gelände" - Untertitel: "Warum man nicht vor Ort arbeiten muss" - erzählen kann.
 
+![](/assets/img/000003a.png)
 [![](images/000003a.png)](https://kamihoeferl.at/wp-content/uploads/2018/11/000003a.png)
 
 Diese Anfrage hat mich zunächst irritiert, da mir zum Thema spontan nur der Titel einer 1988 durch diese Herren (Public Enemy) veröffentlichten Single eingefallen ist: [Don't believe the Hype!](https://youtu.be/LK8sxngSWaU)
