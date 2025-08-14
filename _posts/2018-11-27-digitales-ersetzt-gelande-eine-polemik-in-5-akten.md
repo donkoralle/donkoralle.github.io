@@ -9,9 +9,9 @@ image: polemik.jpg
 
 _Ein Kurzvortrag gehalten am [Tag der Lehre 2018](https://www.uibk.ac.at/rektorenteam/lehre/tag-der-lehre/index.html.de)_ _der [Fakultät für Geo- und Atmosphärenwissenschaften](https://www.uibk.ac.at/rektorenteam/lehre/tag-der-lehre/fakultaetsprogramme.html)_ _der Universität Innsbruck._
 
-<!--more-->
+---
 
-![](/assets/img/000002.png)
+![alt text](/assets/img/kittenberger_schiltern.jpg)
 
 Vor einigen Tagen hat mich Ernst Steinicke gefragt, ob ich nicht fünf Minuten irgendetwas zum Thema "Digitales ersetzt Gelände" - Untertitel: "Warum man nicht vor Ort arbeiten muss" - erzählen kann.
 
