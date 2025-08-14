@@ -20,6 +20,8 @@ Here are some WorkBooks from previous classes:
 
 ## OER Materials
 
+If not stated otherwise, all materials are licensed under a **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** license. Enjoy, share and if you find the time: Reach out for feedback or contributions. Namaste & Zickezacke!
+
 Here are some continuosly updated courses:
 
 📚 **[Lecture Materials: Sustainability and Environmental Management](https://github.com/donkoralle/Lecture_Sustainabiltiy_and_Environmental_Management)**
