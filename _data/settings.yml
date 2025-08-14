@@ -13,7 +13,7 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'fab fa-github', link: 'https://github.com/donkoralle'}
-- {icon: 'fab fa-mastodon', link: 'https://mastodon.social/@Kamihoeferl'}
+- {icon: 'fab fa-mastodon', link: 'https://mastodon.green/@kamihoeferl'}
 - {icon: 'fab fa-linkedin', link: 'https://www.linkedin.com/in/karl-michael-h%C3%B6ferl-77a313325/'}
 - {icon: 'fa fa-envelope', link: 'mailto:donkoralle@posteo.de'}
 # - {icon: 'rss-square', link: '/feed.xml'}
