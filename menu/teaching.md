@@ -22,11 +22,11 @@ Here are some WorkBooks from previous classes:
 
 Here are some continuosly updated courses:
 
-📚 [Lecture Materials: Sustainability and Environmental Management](https://github.com/donkoralle/Lecture_Sustainabiltiy_and_Environmental_Management)
+📚 **[Lecture Materials: Sustainability and Environmental Management](https://github.com/donkoralle/Lecture_Sustainabiltiy_and_Environmental_Management)**
 
 Older - static - course materials:
 
-📚 [Lecture "Regionale Geographie Österreichs und der Olstalen"](https://zenodo.org/records/3966838) last updated: July 2020
+📚 **[Lecture "Regionale Geographie Österreichs und der Olstalen"](https://zenodo.org/records/3966838)** last updated: July 2020
 
 ---
 
