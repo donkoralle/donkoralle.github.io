@@ -24,7 +24,11 @@ If not stated otherwise, all materials are licensed under a **[CC BY 4.0](https:
 
 Here are some continuosly updated courses:
 
-📚 **[Lecture Materials: Sustainability and Environmental Management](https://github.com/donkoralle/Lecture_Sustainabiltiy_and_Environmental_Management)**
+📚 **[Lecture Materials: Sustainability and Environmental Management](https://github.com/donkoralle/Lecture_Sustainabiltiy_and_Environmental_Management)**  
+
+📚 **[Lecture Materials: Principles of Sustainability](https://github.com/donkoralle/Lecture_Principles_Sustainability)**  
+
+📚 **[Lecture Materials: Introduction to Circular Economy](https://github.com/donkoralle/Lecture_Circular_Economy)**
 
 
 Older - static - course materials:
