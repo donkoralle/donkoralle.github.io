@@ -9,7 +9,7 @@ On these sites you will find some information on me and my academic work. In cas
 ![KMH](/assets/img/head_kmh_v3_200.jpg)
 
 **Dr. Karl Michael Höferl**  
-IMC University of Applied Sciences Krems  
-Piaristengasse 1 | 3500 Krems | Austria
+TU Wien Library  
+Resselgasse 4 | 1040 Vienna | Austria
 
-[karl.hoeferl@imc.at](mailto:karl.hoeferl@imc.ac.at)
+[karl.hoeferl@tuwien.ac.at](mailto:karl.hoeferl@tuwien.ac.at)
