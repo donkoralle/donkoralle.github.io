@@ -1,9 +1,29 @@
 ---
 ---
 
-$sans-serif-font-family: "Quattrocento Sans", sans-serif;
-$serif-font-family:      "PT Serif", Georgia, "Times New Roman", serif;
-$code-font-family:       "Source Code Pro", monospace;
+@font-face {
+font-family: 'Roboto';
+src: url('/assets/fonts/roboto-v51-latin-regular.woff2') format('woff2');
+font-weight: 400;
+font-style: normal;
+font-display: swap;
+}
+ 
+@font-face {
+font-family: 'Roboto Slab';
+src: url('/assets/fonts/roboto-slab-v36-latin-900.woff2') format('woff2');
+font-weight: 900;
+font-style: normal;
+font-display: swap;
+}
+ 
+$sans-serif-font-family: "Roboto", sans-serif;
+$serif-font-family: "PT Serif", Georgia, "Times New Roman", serif;
+$code-font-family: "Source Code Pro", monospace;
+
+// $sans-serif-font-family: "Quattrocento Sans", sans-serif;
+// $serif-font-family:      "PT Serif", Georgia, "Times New Roman", serif;
+// $code-font-family:       "Source Code Pro", monospace;
 
 $body-color:             #505050;
 $link-color:             #ff6600;
@@ -38,3 +58,9 @@ $rss-color:            black;
 $kmh-color:            #ff6600;
 
 @import "-sections-dir";
+
+// Überschriften sollen Roboto Slab verwenden, daher die Font-Family hier überschreiben
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Roboto Slab", serif;
+    font-weight: 900;
+}

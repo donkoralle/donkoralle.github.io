@@ -1,4 +1,4 @@
-# Just my personal playgounf (aka blog)
+# Just my personal playground (aka blog)
 
 Thanks to Paul Lee ([www.lenpaul.com](http://lenpaul.com)) for the nice template. You can find the original template here 👇.
 
